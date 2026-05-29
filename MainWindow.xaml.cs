@@ -79,7 +79,7 @@ namespace zadanie4
                     freqB = freqB - 0.0087;
                     freqC = freqC + 0.0054;
 
-                    string fio = "Воеводина Наталия Юрьевна";
+                    string fio = "Козлова Ксения Максимовна ";
 
                     string result = $"ФИО: {fio}\n\n";
                     result += $"Частота дискретизации: {sampleRate} Гц\n";
