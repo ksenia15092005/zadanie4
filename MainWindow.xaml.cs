@@ -80,6 +80,8 @@ namespace zadanie4
                     freqC = freqC + 0.0054;
 
                     string fio = "Козлова Ксения Максимовна ";
+                    // Это коммит в ветке feature-branch
+                    int test = 1;
 
                     string result = $"ФИО: {fio}\n\n";
                     result += $"Частота дискретизации: {sampleRate} Гц\n";
